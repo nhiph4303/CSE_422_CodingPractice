@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab1\\CodingPracticeLab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBBEB5-2ED0-4974-963A-64B359721A2C}|CodingPracticeLab1.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab1\\codingpracticelab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBBEB5-2ED0-4974-963A-64B359721A2C}|CodingPracticeLab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBBEB5-2ED0-4974-963A-64B359721A2C}|CodingPracticeLab1.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab1\\codingpracticelab1\\problems\\wordsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBBEB5-2ED0-4974-963A-64B359721A2C}|CodingPracticeLab1.csproj|solutionrelative:problems\\wordsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBBEB5-2ED0-4974-963A-64B359721A2C}|CodingPracticeLab1.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab1\\codingpracticelab1\\problems\\integerdivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBBEB5-2ED0-4974-963A-64B359721A2C}|CodingPracticeLab1.csproj|solutionrelative:problems\\integerdivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBBEB5-2ED0-4974-963A-64B359721A2C}|CodingPracticeLab1.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab1\\codingpracticelab1\\problems\\medianoftwosortedarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBBEB5-2ED0-4974-963A-64B359721A2C}|CodingPracticeLab1.csproj|solutionrelative:problems\\medianoftwosortedarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordSearch.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab1\\CodingPracticeLab1\\Problems\\WordSearch.cs",
+              "RelativeDocumentMoniker": "Problems\\WordSearch.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab1\\CodingPracticeLab1\\Problems\\WordSearch.cs*",
+              "RelativeToolTip": "Problems\\WordSearch.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAewD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:49:32.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntegerDivision.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab1\\CodingPracticeLab1\\Problems\\IntegerDivision.cs",
+              "RelativeDocumentMoniker": "Problems\\IntegerDivision.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab1\\CodingPracticeLab1\\Problems\\IntegerDivision.cs*",
+              "RelativeToolTip": "Problems\\IntegerDivision.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:31:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedianOfTwoSortedArrays.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab1\\CodingPracticeLab1\\Problems\\MedianOfTwoSortedArrays.cs",
+              "RelativeDocumentMoniker": "Problems\\MedianOfTwoSortedArrays.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab1\\CodingPracticeLab1\\Problems\\MedianOfTwoSortedArrays.cs",
+              "RelativeToolTip": "Problems\\MedianOfTwoSortedArrays.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T07:10:46.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab1\\CodingPracticeLab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab1\\CodingPracticeLab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T07:05:30.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿@model DeviceManagementSystem.Models.DeviceCategory
+
+@{
+	ViewData["Title"] = "Edit Category";
+}
+
+@* breadcrum *@
+<div class="mb-6">
+	<div class="flex items-center gap-2 text-sm font-medium text-slate-500">
+		<a asp-action="Index" class="hover:text-primary">Device Categories</a>
+		<span class="text-slate-300">/</span>
+		<span class="text-slate-900 font-semibold">Edit</span>
+	</div>
+</div>
+
+@* 👇 ĐÃ SỬA: Đổi max-w-xl thành max-w-5xl *@
+<div class="max-w-5xl mx-auto bg-white dark:bg-slate-800 rounded-xl p-8 border border-slate-100 dark:border-slate-700 shadow-soft">
+
+	<h1 class="text-2xl font-black text-slate-900 dark:text-white mb-2">
+		Edit Category
+	</h1>
+	<p class="text-slate-500 dark:text-slate-400 mb-6">
+		Update category information.
+	</p>
+
+	<form asp-action="Edit" class="space-y-6">
+		<input type="hidden" asp-for="Id" />
+		<div asp-validation-summary="ModelOnly" class="text-red-500 text-sm"></div>
+
+		<div>
+			<label asp-for="Name" class="block text-sm font-bold text-slate-700 dark:text-slate-200 mb-2"></label>
+			<input asp-for="Name"
+				   class="w-full rounded-lg bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 px-4 py-2.5 focus:ring-2 focus:ring-primary/20 focus:outline-none" />
+			<span asp-validation-for="Name" class="text-red-500 text-sm"></span>
+		</div>
+
+		<div class="flex justify-end gap-3 pt-4">
+			<a asp-action="Index"
+			   class="px-5 py-2.5 rounded-lg font-bold text-slate-600 hover:bg-slate-100 transition-colors">
+				Cancel
+			</a>
+
+			<button type="submit"
+					class="px-5 py-2.5 rounded-lg bg-primary hover:bg-primary-hover text-white font-bold shadow-lg shadow-primary/20 transition-all active:scale-95">
+				Save Changes
+			</button>
+		</div>
+	</form>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

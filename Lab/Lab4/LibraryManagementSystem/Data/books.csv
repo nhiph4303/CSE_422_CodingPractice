@@ -1,0 +1,13 @@
+Id,Type,Title,Author,Category,Quantity
+1,RegularBook,The Great Gatsby,F. Scott Fitzgerald,Classic,5
+2,RegularBook,Clean Code,Robert C. Martin,Tech,3
+3,RegularBook,Design Patterns,Erich Gamma,Tech,2
+4,RegularBook,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,10
+5,RegularBook,The Hobbit,J.R.R. Tolkien,Fantasy,7
+6,RegularBook,1984,George Orwell,Dystopian,4
+7,RegularBook,To Kill a Mockingbird,Harper Lee,Classic,6
+8,RegularBook,Introduction to Algorithms,Thomas H. Cormen,Tech,2
+9,RegularBook,The Pragmatic Programmer,Andrew Hunt,Tech,3
+10,RegularBook,C# in Depth,Jon Skeet,Tech,4
+11,RegularBook,Tôi th?y hoa vàng trên c? xanh,Nguy?n Nh?t Anh,Ti?u thuy?t,5
+13,RegularBook,Harry Poter,Nhi,Fiction,4

@@ -1,0 +1,15 @@
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.sourcelink.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab4\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll

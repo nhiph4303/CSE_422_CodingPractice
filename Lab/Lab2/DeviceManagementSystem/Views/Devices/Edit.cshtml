@@ -1,0 +1,115 @@
+﻿@model DeviceManagementSystem.Models.Device
+@using DeviceManagementSystem.Models
+
+@{
+	ViewData["Title"] = "Edit Device";
+}
+
+@* breadcrum *@
+<div class="mb-6">
+	<div class="flex items-center gap-2 text-sm font-medium text-slate-500">
+		<a asp-controller="Home"
+		   asp-action="Index"
+		   class="hover:text-primary">
+			Home
+		</a>
+
+		<span>/</span>
+
+		<a asp-controller="Devices"
+		   asp-action="Index"
+		   class="hover:text-primary">
+			Devices
+		</a>
+
+		<span>/</span>
+
+		<span class="text-slate-900 font-semibold">
+			Edit
+		</span>
+	</div>
+</div>
+
+@* header *@
+<div class="mb-6">
+	<h1 class="text-3xl font-black text-slate-900">
+		Edit Device
+	</h1>
+	<p class="text-slate-500 mt-1">
+		Update device information
+	</p>
+</div>
+
+@* form *@
+<div class="bg-white rounded-xl p-8 border shadow w-full">
+
+	<div asp-validation-summary="ModelOnly"
+		 class="text-red-600 font-bold mb-4"></div>
+
+	<form asp-action="Edit"
+		  method="post"
+		  class="space-y-6">
+
+		@Html.AntiForgeryToken()
+		<input type="hidden" asp-for="Id" />
+
+		<div>
+			<label class="font-semibold">Device Name</label>
+			<input asp-for="DeviceName"
+				   class="w-full border rounded px-4 py-2" />
+			<span asp-validation-for="DeviceName"
+				  class="text-red-500 text-sm"></span>
+		</div>
+
+		<div>
+			<label class="font-semibold">Device Code</label>
+			<input asp-for="DeviceCode"
+				   class="w-full border rounded px-4 py-2 font-mono" />
+			<span asp-validation-for="DeviceCode"
+				  class="text-red-500 text-sm"></span>
+		</div>
+
+		<div>
+			<label class="font-semibold">Category</label>
+			<select asp-for="DeviceCategoryId"
+					asp-items="ViewBag.Categories"
+					class="w-full border rounded px-4 py-2">
+			</select>
+			<span asp-validation-for="DeviceCategoryId"
+				  class="text-red-500 text-sm"></span>
+		</div>
+
+		<div>
+			<label class="font-semibold">Status</label>
+			<select asp-for="Status"
+					asp-items="Html.GetEnumSelectList<DeviceStatus>()"
+					class="w-full border rounded px-4 py-2">
+			</select>
+		</div>
+
+		<div>
+			<label class="font-semibold">Date of Entry</label>
+			<input asp-for="DateOfEntry"
+				   type="date"
+				   class="w-full border rounded px-4 py-2" />
+		</div>
+
+		@* actions *@
+		<div class="flex justify-end gap-3 pt-6">
+			<a asp-action="Index"
+			   class="px-6 py-2 rounded font-semibold
+                      text-slate-600 hover:bg-slate-100 transition">
+				Cancel
+			</a>
+
+			<button type="submit"
+					class="bg-primary text-white px-6 py-2 rounded font-semibold">
+				Save Changes
+			</button>
+		</div>
+	</form>
+</div>
+
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}

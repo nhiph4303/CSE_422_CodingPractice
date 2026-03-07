@@ -1,0 +1,51 @@
+﻿@model DeviceManagementSystem.Models.DeviceCategory
+
+@{
+	ViewData["Title"] = "Create Category";
+}
+
+@* breadcrum *@
+<div class="mb-6">
+	<div class="flex items-center gap-2 text-sm font-medium text-slate-500">
+		<a asp-action="Index" class="hover:text-primary">Device Categories</a>
+		<span>/</span>
+		<span class="text-slate-900 font-semibold">Create</span>
+	</div>
+</div>
+
+@* 👇 ĐÃ SỬA: Đổi max-w-xl thành max-w-5xl *@
+<div class="max-w-5xl mx-auto bg-white rounded-xl p-8 border shadow">
+
+	<h1 class="text-2xl font-black mb-2">Add New Category</h1>
+	<p class="text-slate-500 mb-6">Create a new hardware grouping.</p>
+
+	<form asp-action="Create" method="post" class="space-y-6">
+		@Html.AntiForgeryToken()
+
+		<div>
+			<label asp-for="Name" class="block font-bold mb-2"></label>
+
+			<input asp-for="Name"
+				   class="w-full border rounded px-4 py-2" />
+
+			<span asp-validation-for="Name"
+				  class="text-red-500 text-sm"></span>
+		</div>
+
+		<div class="flex justify-end gap-3">
+			<a asp-action="Index"
+			   class="px-5 py-2.5 rounded font-bold text-slate-600 hover:bg-slate-100">
+				Cancel
+			</a>
+
+			<button type="submit"
+					class="px-5 py-2.5 rounded bg-primary text-white font-bold">
+				Create
+			</button>
+		</div>
+	</form>
+</div>
+
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,64 @@
+﻿@model DeviceManagementSystem.ViewModels.DashboardViewModel
+
+@{
+	ViewData["Title"] = "Dashboard";
+}
+
+@* breadcrum *@
+<div class="mb-6 px-6">
+	<div class="flex items-center gap-2 text-sm font-medium text-slate-500">
+		<span class="text-slate-900 font-semibold">Dashboard</span>
+	</div>
+</div>
+
+<div class="w-full px-6">
+
+	@* stats *@
+	<section class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+
+		<div class="bg-white p-6 rounded-xl shadow border">
+			<p class="text-sm text-gray-500">Total Devices</p>
+			<h3 class="text-3xl font-bold">@Model.TotalDevices</h3>
+		</div>
+
+		<div class="bg-white p-6 rounded-xl shadow border">
+			<p class="text-sm text-gray-500">Under Maintenance</p>
+			<h3 class="text-3xl font-bold">@Model.MaintenanceCount</h3>
+		</div>
+
+		<div class="bg-white p-6 rounded-xl shadow border">
+			<p class="text-sm text-gray-500">Broken</p>
+			<h3 class="text-3xl font-bold">@Model.BrokenCount</h3>
+		</div>
+
+	</section>
+
+	@* table *@
+	<section class="bg-white rounded-xl shadow border overflow-x-auto">
+		<table class="w-full text-left">
+			<thead class="border-b bg-gray-50">
+				<tr>
+					<th class="p-4">Device</th>
+					<th class="p-4">Code</th>
+					<th class="p-4">Category</th>
+					<th class="p-4">Status</th>
+					<th class="p-4">Date</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var d in Model.Devices)
+				{
+					<tr class="border-b hover:bg-slate-50">
+						<td class="p-4 font-medium">@d.DeviceName</td>
+						<td class="p-4">@d.DeviceCode</td>
+						<td class="p-4">@d.DeviceCategory?.Name</td>
+						<td class="p-4">@d.Status</td>
+						<td class="p-4">
+							@d.DateOfEntry.ToString("dd/MM/yyyy")
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</section>
+</div>

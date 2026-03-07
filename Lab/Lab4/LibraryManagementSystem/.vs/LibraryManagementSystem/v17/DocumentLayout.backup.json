@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\data\\books.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:data\\books.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\data\\readers.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:data\\readers.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\repositories\\bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:repositories\\bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\interfaces\\ireaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:interfaces\\ireaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\interfaces\\iborrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:interfaces\\iborrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab4\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0FE473-2AB0-45F5-A8E5-D2D35AF1A753}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readers.csv",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Data\\readers.csv",
+              "RelativeDocumentMoniker": "Data\\readers.csv",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Data\\readers.csv",
+              "RelativeToolTip": "Data\\readers.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-01-31T07:57:14.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "books.csv",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Data\\books.csv",
+              "RelativeDocumentMoniker": "Data\\books.csv",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Data\\books.csv",
+              "RelativeToolTip": "Data\\books.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-01-31T07:56:08.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Repositories\\BookFactory.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookFactory.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Repositories\\BookFactory.cs",
+              "RelativeToolTip": "Repositories\\BookFactory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T07:42:16.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Models\\Reader.cs",
+              "RelativeDocumentMoniker": "Models\\Reader.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Models\\Reader.cs",
+              "RelativeToolTip": "Models\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T07:42:09.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T07:41:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReportService.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T07:41:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Interfaces\\IReaderRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReaderRepository.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Interfaces\\IReaderRepository.cs",
+              "RelativeToolTip": "Interfaces\\IReaderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T07:41:48.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Interfaces\\IBorrowService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBorrowService.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Interfaces\\IBorrowService.cs",
+              "RelativeToolTip": "Interfaces\\IBorrowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T07:41:45.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T06:46:28.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab4\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T06:04:02.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

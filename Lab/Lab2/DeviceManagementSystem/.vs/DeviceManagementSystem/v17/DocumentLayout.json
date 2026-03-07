@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\devicecategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\devicecategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\models\\devicecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:models\\devicecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\controllers\\devicecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:controllers\\devicecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\migrations\\20260123132941_updateuserwithrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:migrations\\20260123132941_updateuserwithrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\devicecategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\devicecategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\devicecategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\devicecategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\migrations\\20260116205015_fixdevicenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:migrations\\20260116205015_fixdevicenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\migrations\\20260116191453_adddevicetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:migrations\\20260116191453_adddevicetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\migrations\\20260116153209_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:migrations\\20260116153209_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\cse_422_codingpractice\\lab\\lab2\\devicemanagementsystem\\migrations\\20260123131020_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7530AC-F70D-49F8-9D03-1B435C0B977E}|DeviceManagementSystem.csproj|solutionrelative:migrations\\20260123131020_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:43:59.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T15:23:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:23:26.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\DeviceCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DeviceCategories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\DeviceCategories\\Index.cshtml",
+              "RelativeToolTip": "Views\\DeviceCategories\\Index.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T19:19:39.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:22:19.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\DeviceCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\DeviceCategories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\DeviceCategories\\Create.cshtml",
+              "RelativeToolTip": "Views\\DeviceCategories\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T19:31:57.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Controllers\\DeviceCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceCategoriesController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Controllers\\DeviceCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\DeviceCategoriesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:40:51.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:48:20.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "Controllers\\DevicesController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAkwJ8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T20:12:01.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T19:11:26.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceCategory.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Models\\DeviceCategory.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceCategory.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Models\\DeviceCategory.cs",
+              "RelativeToolTip": "Models\\DeviceCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:25:08.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:08:44.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:09:20.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\DeviceCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\DeviceCategories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\DeviceCategories\\Edit.cshtml",
+              "RelativeToolTip": "Views\\DeviceCategories\\Edit.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T19:17:22.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260123132941_UpdateUserWithRole.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260123132941_UpdateUserWithRole.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260123132941_UpdateUserWithRole.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260123132941_UpdateUserWithRole.cs",
+              "RelativeToolTip": "Migrations\\20260123132941_UpdateUserWithRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:29:41.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T05:41:22.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T19:09:14.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260123131020_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260123131020_AddUserTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260123131020_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260123131020_AddUserTable.cs",
+              "RelativeToolTip": "Migrations\\20260123131020_AddUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:10:20.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Devices\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Devices\\Index.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Index.cshtml",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAowNoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T20:09:54.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T12:45:09.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T12:46:26.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T12:46:53.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAowK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T16:20:32.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T05:41:26.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T05:41:25.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Devices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Devices\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Edit.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T20:18:08.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Devices\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Views\\Devices\\Create.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Create.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T20:17:43.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T19:14:02.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:32:48.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260116205015_FixDeviceNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260116205015_FixDeviceNavigation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260116205015_FixDeviceNavigation.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260116205015_FixDeviceNavigation.cs",
+              "RelativeToolTip": "Migrations\\20260116205015_FixDeviceNavigation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T20:50:16.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260116191453_AddDeviceTable.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260116191453_AddDeviceTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260116191453_AddDeviceTable.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260116191453_AddDeviceTable.cs",
+              "RelativeToolTip": "Migrations\\20260116191453_AddDeviceTable.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T19:14:53.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260116153209_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260116153209_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260116153209_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Migrations\\20260116153209_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260116153209_InitialCreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:32:09.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSE_422_CodingPractice\\Lab\\Lab2\\DeviceManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-17T06:15:26.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

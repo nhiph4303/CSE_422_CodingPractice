@@ -1,0 +1,82 @@
+﻿@model DeviceManagementSystem.Models.User
+@{
+    ViewData["Title"] = "Edit User";
+}
+
+<div class="mb-6">
+    <div class="flex items-center gap-2 text-sm font-medium text-slate-500">
+        <a asp-action="Index" class="hover:text-blue-600 transition-colors">User Management</a>
+        <span class="text-slate-300">/</span>
+        <span class="text-slate-900 dark:text-white font-semibold">Edit User</span>
+    </div>
+</div>
+
+<div class="max-w-5xl mx-auto bg-white dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
+    <div class="px-8 py-6 border-b border-slate-200 dark:border-slate-700 bg-slate-50/50 dark:bg-slate-800/50 flex items-center justify-between">
+        <div>
+            <h1 class="text-2xl font-bold text-slate-900 dark:text-white">Edit User</h1>
+            <p class="text-sm text-slate-500 mt-1">Update employee information.</p>
+        </div>
+        <div class="w-10 h-10 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold text-lg border border-blue-200">
+            @Model.FullName.Substring(0, 1).ToUpper()
+        </div>
+    </div>
+
+    <div class="p-8">
+        <form asp-action="Edit" class="space-y-6">
+            <input type="hidden" asp-for="Id" />
+            @Html.AntiForgeryToken()
+
+            @* Full Name *@
+            <div>
+                <label asp-for="FullName" class="block text-sm font-bold text-slate-700 dark:text-slate-300 mb-2"></label>
+                <div class="relative">
+                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none"><span class="material-symbols-outlined text-slate-400">person</span></div>
+                    <input asp-for="FullName" class="w-full pl-10 pr-4 py-2.5 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-900 dark:text-white placeholder-slate-400 focus:ring-2 focus:ring-blue-600/20 focus:border-blue-600 outline-none" />
+                </div>
+                <span asp-validation-for="FullName" class="text-red-500 text-xs font-medium mt-1 block"></span>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                @* Email *@
+                <div>
+                    <label asp-for="Email" class="block text-sm font-bold text-slate-700 dark:text-slate-300 mb-2"></label>
+                    <div class="relative">
+                        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none"><span class="material-symbols-outlined text-slate-400">mail</span></div>
+                        <input asp-for="Email" type="email" class="w-full pl-10 pr-4 py-2.5 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-900 dark:text-white placeholder-slate-400 focus:ring-2 focus:ring-blue-600/20 focus:border-blue-600 outline-none" />
+                    </div>
+                    <span asp-validation-for="Email" class="text-red-500 text-xs font-medium mt-1 block"></span>
+                </div>
+                @* Phone *@
+                <div>
+                    <label asp-for="PhoneNumber" class="block text-sm font-bold text-slate-700 dark:text-slate-300 mb-2"></label>
+                    <div class="relative">
+                        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none"><span class="material-symbols-outlined text-slate-400">call</span></div>
+                        <input asp-for="PhoneNumber" class="w-full pl-10 pr-4 py-2.5 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-900 dark:text-white placeholder-slate-400 focus:ring-2 focus:ring-blue-600/20 focus:border-blue-600 outline-none" />
+                    </div>
+                    <span asp-validation-for="PhoneNumber" class="text-red-500 text-xs font-medium mt-1 block"></span>
+                </div>
+            </div>
+
+            @* Role Selection *@
+            <div>
+                <label asp-for="Role" class="block text-sm font-bold text-slate-700 dark:text-slate-300 mb-2"></label>
+                <div class="relative">
+                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none"><span class="material-symbols-outlined text-slate-400">shield_person</span></div>
+                    <select asp-for="Role" asp-items="Html.GetEnumSelectList<DeviceManagementSystem.Models.UserRole>()"
+                            class="w-full pl-10 pr-4 py-2.5 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-900 dark:text-white focus:ring-2 focus:ring-blue-600/20 focus:border-blue-600 outline-none cursor-pointer appearance-none"></select>
+                    <div class="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none"><span class="material-symbols-outlined text-slate-400 text-sm">expand_more</span></div>
+                </div>
+                <span asp-validation-for="Role" class="text-red-500 text-xs font-medium mt-1 block"></span>
+            </div>
+
+            <div class="flex justify-end gap-3 pt-6 border-t border-slate-200 dark:border-slate-700 mt-6">
+                <a asp-action="Index" class="px-5 py-2.5 rounded-lg font-bold text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">Cancel</a>
+                <button type="submit" class="px-6 py-2.5 rounded-lg bg-blue-600 hover:bg-blue-700 text-white font-bold shadow-lg shadow-blue-600/20 transition-all active:scale-95 flex items-center gap-2"><span class="material-symbols-outlined text-[20px]">save</span> Save Changes</button>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

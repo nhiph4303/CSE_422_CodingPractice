@@ -1,0 +1,12 @@
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\bin\Debug\net9.0\LibraryManagement.Domain.deps.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\bin\Debug\net9.0\LibraryManagement.Domain.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\bin\Debug\net9.0\LibraryManagement.Domain.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.AssemblyInfo.cs
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.sourcelink.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\obj\Debug\net9.0\refint\LibraryManagement.Domain.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Lab\Lab6\PhanNgocHanhNhi_Lab6\Exercise6\LibraryManagement.Domain\obj\Debug\net9.0\ref\LibraryManagement.Domain.dll

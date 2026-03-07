@@ -1,0 +1,15 @@
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\bin\Debug\net9.0\NotificationSystem.exe
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\bin\Debug\net9.0\NotificationSystem.deps.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\bin\Debug\net9.0\NotificationSystem.runtimeconfig.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\bin\Debug\net9.0\NotificationSystem.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\bin\Debug\net9.0\NotificationSystem.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\NotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\NotificationSystem.AssemblyInfoInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\NotificationSystem.AssemblyInfo.cs
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\NotificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\NotificationSystem.sourcelink.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\NotificationSystem.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\refint\NotificationSystem.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\NotificationSystem.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\NotificationSystem.genruntimeconfig.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\Assignment4\obj\Debug\net9.0\ref\NotificationSystem.dll
