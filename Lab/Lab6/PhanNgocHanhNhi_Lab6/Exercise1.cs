@@ -2,9 +2,6 @@ using System;
 using System.Linq.Expressions;
 using System.Reflection;
 
-// =====================================================================
-// ORIGINAL CODE (redundant)
-// =====================================================================
 public class Logger
 {
     public void LogUserAction(string username, string action)
@@ -23,11 +20,6 @@ public class Logger
     }
 }
 
-// =====================================================================
-// APPROACH 1 – REFLECTION
-// Dùng MethodBase.GetCurrentMethod() để lấy tên method và tên tham số
-// tự động tại runtime, thay vì hard-code từng message.
-// =====================================================================
 public class ReflectionLogger
 {
     public void LogUserAction(string username, string action)
@@ -54,12 +46,6 @@ public class ReflectionLogger
     }
 }
 
-// =====================================================================
-// APPROACH 2 – EXPRESSION TREES
-// Caller truyền vào một lambda expression () => method(args).
-// Expression Tree phân tích cú pháp của lambda để lấy tên method,
-// tên tham số, và evaluate giá trị thực tế — không cần hard-code.
-// =====================================================================
 public static class ExpressionLogger
 {
     public static void Log(Expression<Action> expression)
@@ -81,9 +67,6 @@ public static class ExpressionLogger
     }
 }
 
-// =====================================================================
-// RUNNER
-// =====================================================================
 public static class Exercise1Runner
 {
     public static void Run()

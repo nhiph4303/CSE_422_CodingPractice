@@ -1,0 +1,15 @@
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\bin\Debug\net8.0\PaymentSystemRefactor.exe
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\bin\Debug\net8.0\PaymentSystemRefactor.deps.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\bin\Debug\net8.0\PaymentSystemRefactor.runtimeconfig.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\bin\Debug\net8.0\PaymentSystemRefactor.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\bin\Debug\net8.0\PaymentSystemRefactor.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\PaymentSystemRefactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\PaymentSystemRefactor.AssemblyInfoInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\PaymentSystemRefactor.AssemblyInfo.cs
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\PaymentSystemRefactor.csproj.CoreCompileInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\PaymentSystemRefactor.sourcelink.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\PaymentSystemRefactor.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\refint\PaymentSystemRefactor.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\PaymentSystemRefactor.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\PaymentSystemRefactor.genruntimeconfig.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSystemRefactor\obj\Debug\net8.0\ref\PaymentSystemRefactor.dll

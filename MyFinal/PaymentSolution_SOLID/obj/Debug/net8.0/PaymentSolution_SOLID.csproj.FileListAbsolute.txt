@@ -1,0 +1,15 @@
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\bin\Debug\net8.0\PaymentSolution_SOLID.exe
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\bin\Debug\net8.0\PaymentSolution_SOLID.deps.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\bin\Debug\net8.0\PaymentSolution_SOLID.runtimeconfig.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\bin\Debug\net8.0\PaymentSolution_SOLID.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\bin\Debug\net8.0\PaymentSolution_SOLID.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\PaymentSolution_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\PaymentSolution_SOLID.AssemblyInfoInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\PaymentSolution_SOLID.AssemblyInfo.cs
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\PaymentSolution_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\PaymentSolution_SOLID.sourcelink.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\PaymentSolution_SOLID.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\refint\PaymentSolution_SOLID.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\PaymentSolution_SOLID.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\PaymentSolution_SOLID.genruntimeconfig.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSE_422_CodingPractice\PhanNgocHanhNhi_2131209002\PaymentSolution_SOLID\obj\Debug\net8.0\ref\PaymentSolution_SOLID.dll
